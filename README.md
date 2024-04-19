@@ -1,6 +1,14 @@
-# Linux Up Skill Challenge ![Stars](https://img.shields.io/github/stars/RainB13/linux-upskill?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/RainB13/linux-upskill?label=Watchers)
+# Description ![Stars](https://img.shields.io/github/stars/RainB13/linux-upskill?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/RainB13/linux-upskill?label=Watchers)
 ![Untitled-2](https://linuxupskillchallenge.org/luc.png) 
-# About
+
+This is a project I use to practice skills related to the job of a system administrator, mainly based on <a 
+    href="https://linuxupskillchallenge.org/"
+    target="_blank" 
+    rel="noopener noreferrer">
+    Linuxupskillchallenge
+</a> exercises
+
+# About Linux Up Skill Challenge
 <a 
     href="https://linuxupskillchallenge.org/"
     target="_blank" 
